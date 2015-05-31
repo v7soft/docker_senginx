@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"PATH_DEST"
+			],
+			[
+				"PAT",
+				"PATH_DEST"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 40,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 327.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/dgl_webconfig_b2c_nginx/src/main/resources/nginx/desigual.com.redirect.map",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/dgl_webconfig_b2c_nginx/src/main/resources/nginx/desigual.com.rewrite.map",
+		"/Users/amurillo/Projects/Desigual/B2CNW/dgl_b2c_web/j2ee-apps/Desigual/desigual.war/WEB-INF/urlrewrite.xml",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/httpd/httpd.conf",
+		"/Users/amurillo/Downloads/Workbench-Build117/sqlworkbench.sh",
+		"/Users/amurillo/Downloads/Workbench-Build117/sqlwbconsole.sh",
+		"/Users/amurillo/Software/Aquaris/BQ_4.5_KK_4.4.2_v1/META-INF/MANIFEST.MF",
+		"/Users/amurillo/Software/Aquaris/BQ_4.5_KK_4.4.2_v1/mods/dual_sim/build.prop",
+		"/Users/amurillo/Downloads/irpf2014_1_10/Renta 2014/Renta 2014.sh",
+		"/Users/amurillo/Projects/Desigual/B2C/dgl_b2c/src/es/desigual/dutyCalculator/DCClientHelper.java",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.redirect.map",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.rewrite.map",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/nginx/wsb2c.conf",
+		"/Users/amurillo/Projects/checkCrons.sh",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/nginx/020_nw-desigual.com.conf",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/nginx/011_ssl-desigual.com.conf",
+		"/Users/amurillo/Projects/Desigual/QARCH/dgl_webconfig/B2C/nginx/010_desigual.com.conf",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/httpd/extra/httpd-vhosts.conf",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/README.md",
+		"/Volumes/NO NAME/bin/connSSH",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.redirect.map",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.rewrite.map",
+		"/Users/amurillo/Projects/Desigual/QARCH/syncFolders/syncfolders.conf",
+		"/Users/amurillo/Projects/Desigual/QARCH/syncFolders/syncfolders.sh",
+		"/Users/amurillo/Projects/Desigual/QARCH/untitled folder/syncfolders.conf",
+		"/Users/amurillo/Projects/Desigual/QARCH/untitled folder/syncfolders.sh",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/wsb2c.conf",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.conf",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/ssl-desigual.com.conf",
+		"/Users/amurillo/Downloads/redirecciones301-rebajas.csv",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.rewrite.map.txt",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/desigual.com.rewrite.txt",
+		"/Users/amurillo/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/amurillo/git/desigual/QARCH/dgl_webconfig/B2C/nginx/rewriteMapRewrite.txt",
+		"/Users/amurillo/Documents/Desigual/Configuration/PRE/APACHE/conf/balancer/workers.properties",
+		"/Users/amurillo/Documents/Desigual/Configuration/PRE/APACHE/conf/extra/httpd-vhosts.conf.balancer",
+		"/Users/amurillo/Desktop/.localized",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/workmech/luna.manifest",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/workmech/LUNA/task-2.epf",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/workmech/LUNA/task-1.epf",
+		"/Users/amurillo/NetBeansProjects/desigual/mkt/dgl_mkt_microsite_world/Dockerfile",
+		"/Users/amurillo/NetBeansProjects/desigual/mkt/dgl_msmln_php/Dockerfile",
+		"/Users/amurillo/NetBeansProjects/desigual/mkt/dgl_msmln_php/README.md",
+		"/Users/amurillo/Downloads/historicoB2B/dglb2b_package_insert_histo.sql",
+		"/Users/amurillo/Downloads/historicoB2B/dglb2b_package_delete_histo_origin.sql",
+		"/Users/amurillo/Downloads/historicoB2B/dglb2b_hist_disable_constraints.sql",
+		"/Users/amurillo/Downloads/historicoB2B/dglb2b_hist_create_tables.sql",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/dockers/dockers/dockers.openldap/src/main/docker/Dockerfile",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/dockers/dockers/dockers.base-java/Dockerfile",
+		"/Users/amurillo/Library/Application Support/Sublime Text 2/Packages/User/HelloWord.py",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/dockers/dockers/untitled folder/Dockerfile",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/dockers/dockers/pom.xml",
+		"/Users/amurillo/NetBeansProjects/desigual/arch/dockers/dockers/dockers.registry/Dockerfile"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^\\^/es_ES/(.*)/\\$\\t/es_ES/(.*);$",
+			"^\\^/es_ES/(.*)(/?)\\$\\t/es_ES/(.*);$",
+			"^\\^/es_ES/(.*!/)(/?)\\$\\t/es_ES/(.*);$",
+			"^\\^/es_ES/(.*)(/?)\\$\\t/es_ES/(.*);$",
+			"^\\^/es_ES/(.*)\\t/es_ES/(.*);$",
+			"\\$",
+			"http://www.desigual.com(.*)/\\thttp://www.desigual.com(.*)$",
+			"http://www.desigual.com(.*)/$",
+			"vcap",
+			"nueva-colecció",
+			"\\t\\/",
+			"$",
+			"/\\t",
+			"^",
+			"http://www.desigual.com",
+			"(.*)",
+			"http://www.desigual.com",
+			"\\/\\/\\$",
+			"\\$\\t",
+			"// p",
+			"\\/\\$\\t",
+			"http",
+			"rewrite \\^(.*)\\$(.*);",
+			"keepalive_timeout",
+			"\\t/",
+			"http:/",
+			"http:/(/?)",
+			"\\/\\$",
+			"\\$",
+			"rewrite \\^(.*)\\$(.*);",
+			"hostname",
+			"www.desigual.com",
+			"\\t/",
+			"(\\w+)(/*)(\\t+)",
+			"\\^/(\\w+)/(\\w+)/([\\w-]+)/",
+			"ite /",
+			"xmas",
+			"$scheme",
+			"\\t/",
+			"$",
+			"^",
+			"http://www.desigual.com",
+			"$",
+			"http://www.desigual.com",
+			"^",
+			"http://www.desigual.com",
+			"$",
+			" permanent",
+			"$",
+			"http://www.desigual.com",
+			"^http://www.desigual.com/",
+			"^/",
+			"http://www.desigual.com",
+			"$",
+			"^/",
+			"http://www.desigual.com",
+			"$",
+			"http://www.desigual.com",
+			"^http://www.desigual.com",
+			"^/",
+			"http://www.desigual.com",
+			"$",
+			"^/",
+			"http://www.desigual.com",
+			"/$",
+			"^/",
+			"http://www.desigual.com",
+			"/$",
+			"^/",
+			"http://www.desigual.com",
+			"\\\\t",
+			" last;",
+			"^/",
+			";",
+			"^/",
+			"http://www.desigual.com",
+			"? ",
+			"\\?",
+			"? ",
+			"^/",
+			";",
+			"?",
+			"/home",
+			"?",
+			"http://www.desigual.com",
+			"^http://www.desigual.com",
+			";h",
+			";;;",
+			"\\t",
+			"http://www.desigual.com",
+			" ;",
+			"Listen",
+			"${hostName}",
+			"$hostName",
+			"1d",
+			"www.desigual.com",
+			"nw-pre.desigual.com",
+			"csc",
+			"pre.desigual.com",
+			"pre.desigual.comnw",
+			"pre.desigual.com",
+			"unit id='"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"^/es_(ES|US)/$1(/?)\\$\\t/es_\\$1/$2;",
+			"^/es_(ES|US)/$1(/?)\\$\\t/es_\\$1/$3;",
+			"^/es_(ES|US)/$1(/?)\\t/es_\\$1/$3;",
+			"^/es_(ES|US)/$1\\t/es_\\$1/$3;",
+			"^/es_(ES|US)/$1\\t/es_\\$1/$2;",
+			"/$",
+			"rewrite ^$1\\$\\t\\t$2 last;",
+			"rewrite ^$1\\$\\t\\t$scheme://$host$1/\\t\\tpermanent;",
+			"\\t$scheme://$host/",
+			" last;",
+			"/\\$\\t",
+			"rewrite ^",
+			"rewrite ",
+			"",
+			"rewrite ^$1$\\t\\t$1 permanent;",
+			"",
+			"\\/\\$",
+			"\\/\\$\\t",
+			"/ p",
+			"\\$\\t",
+			"$scheme",
+			"rewrite \\^$1\\$\\t\\t\\$scheme:\\/\\/\\$http_host$1\\/ permanent;",
+			"\\t$scheme://$host/",
+			"$scheme:/",
+			"http://",
+			"(\\/?)\\$",
+			"\\/\\$",
+			"rewrite \\^$1\\$\\t\\t$1\\/\\t\\tpermanent;",
+			"host",
+			"$hostname",
+			"\\thttp://www.desigual.com/",
+			"$1$2\\$$3",
+			"^/$1/$2/$3/\\$",
+			"ite ^/",
+			"http",
+			"\\t$scheme://$server_name/",
+			" last;",
+			"rewrite ",
+			"",
+			" last;",
+			"",
+			"rewrite ",
+			"",
+			" last;",
+			"\\tpermanent",
+			" permanent;",
+			"",
+			"rewrite /",
+			"",
+			" last;",
+			"rewrite /",
+			"",
+			" last;",
+			"",
+			"rewrite ",
+			"rewrite /",
+			"",
+			" last;",
+			"rewrite /",
+			"",
+			"/ permanent;",
+			"rewrite /",
+			"",
+			"/ permanent;",
+			"rewrite /",
+			"",
+			"\\t",
+			"\\tpermanent;",
+			"rewrite /",
+			" last;",
+			"rewrite /",
+			"",
+			"?",
+			"? ",
+			"$1\" ",
+			"\"/",
+			"\";",
+			"\\?",
+			"\"/home",
+			"\\?",
+			"",
+			" h",
+			";",
+			" ",
+			"",
+			"${HOSTNAME}",
+			"$hostNameURL",
+			"${hostName}",
+			"nw-pre.desigual.com"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 40,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								40,
+								40
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true
+}
