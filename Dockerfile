@@ -4,7 +4,7 @@ WORKDIR /root
 
 COPY scripts .
 
-RUN chmod +x *.sh \;
+RUN chmod +x *.sh ;\
    ./upgrade_system.sh ;\
    ./setup_system.sh ;\
    ./get_senginx.sh ;\
